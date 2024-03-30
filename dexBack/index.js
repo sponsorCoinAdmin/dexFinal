@@ -1,5 +1,5 @@
 const express = require("express");
-const Moralis = require("moralis").default;
+
 const app = express();
 const cors = require("cors");
 require("dotenv").config();
